@@ -27,8 +27,8 @@ Aqui estão as principais tecnologias que estou dominando nas aulas e projetos p
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Luiz Gabriel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" alt="Linguagens mais usadas por Luiz Gabriel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MosKatiello&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Luiz Gabriel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosKatiello&layout=compact&theme=dark" alt="Linguagens mais usadas por Luiz Gabriel" />
 </p>
 
 ---
