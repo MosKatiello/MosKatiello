@@ -36,12 +36,12 @@
 
 ---
 
-<h2 align="left">🚀 Projetos em destaque</h2>
+<h2 align="left"> Projetos em destaque</h2>
 
 <table>
   <tr>
     <td>
-      <h3>🎮 MEC — Mentes em Códigos</h3>
+      <h3> MEC — Mentes em Códigos</h3>
       <p>Serious game 2D no estilo RPG/plataforma, acompanhado de uma plataforma web, criado para ensinar <strong>Programação Orientada a Objetos (POO)</strong> de forma prática e interativa.</p>
       <p>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-17121F?style=for-the-badge&logo=html5&logoColor=C4A7FF" alt="HTML5 — documentação"/></a>
@@ -56,7 +56,7 @@
 
 ---
 
-<h2 align="left">🧰 Tecnologias & ferramentas — clique para acessar</h2>
+<h2 align="left"> Tecnologias & ferramentas — clique para acessar</h2>
 
 <p align="center">
   <a href="https://github.com/MosKatiello/Dw1-FATEC-REGISTRO/tree/main/HTML" title="Abrir meus arquivos HTML no GitHub">
@@ -94,7 +94,7 @@
 
 ---
 
-<h2 align="left">📂 Repositórios de estudo</h2>
+<h2 align="left"> Repositórios de estudo</h2>
 
 | Repositório | Acesso |
 |---|---|
@@ -107,7 +107,7 @@
 
 ---
 
-<h2 align="left">🎯 Em que estou focado</h2>
+<h2 align="left"> Em que estou focado</h2>
 
 - **Desenvolvimento Web:** estruturação de páginas com HTML e estilização com CSS.
 - **Versionamento de Código:** organização e gerenciamento de projetos utilizando Git e GitHub.
@@ -116,7 +116,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/MosKatiello">
@@ -141,7 +141,7 @@
 
 ---
 
-<h2 align="left">🤝 Vamos conversar?</h2>
+<h2 align="left"> Vamos conversar?</h2>
 
 <p align="left">
   <a href="https://github.com/MosKatiello"><img src="https://img.shields.io/badge/GitHub-17121F?style=for-the-badge&logo=github&logoColor=C4A7FF" alt="GitHub" /></a>
