@@ -40,3 +40,16 @@ Definir a proposta	Pensar na interface	Construir a solução	Melhorar a cada ver
 
 
 <img width="82%" src="https://streak-stats.demolab.com?user=MosKatiello&theme=transparent&hide_border=true&background=101426&ring=7DEBFF&fire=FF8BCB&currStreakLabel=7DEBFF&sideLabels=E6E6F0&dates=9A9AAF" alt="Sequência de contribuições"/>
+
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MosKatiello&bg_color=101426&color=E6E6F0&line=7DEBFF&point=FF8BCB&area=true&hide_border=true" alt="Gráfico de atividade"/>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=MosKatiello&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Conquistas do GitHub"/></div><h2 align="center">✦ CONECTE-SE COMIGO ✦</h2><div align="center"><a href="https://github.com/MosKatiello"><img src="https://img.shields.io/badge/GitHub-Meus%20reposit%C3%B3rios-17132B?style=for-the-badge&logo=github&logoColor=7DEBFF"/></a>
+<a href="https://www.instagram.com/luizmoscatiello/"><img src="https://img.shields.io/badge/Instagram-@luizmoscatiello-17132B?style=for-the-badge&logo=instagram&logoColor=FF8BCB"/></a>
+<a href="mailto:lg.lo.siqueira@gmail.com"><img src="https://img.shields.io/badge/Email-lg.lo.siqueira%40gmail.com-17132B?style=for-the-badge&logo=gmail&logoColor=7DEBFF"/></a>
+
+
+
+<i>“Grandes projetos começam com uma ideia — e uma primeira linha de código.”</i>
+</div><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00B8D9,55:35206D,100:101426&height=135&section=footer" />
