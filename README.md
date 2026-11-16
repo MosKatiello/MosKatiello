@@ -34,7 +34,7 @@
       <p><a href="https://github.com/MosKatiello?tab=repositories">↗ Explorar meus repositórios no GitHub</a></p>
     </td>
   </tr>
-</table><h2 align="left">🧰 Tecnologias & ferramentas — clique para acessar</h2><p align="center">
+</table><h2 align="left"> Tecnologias & ferramentas — clique para acessar</h2><p align="center">
   <a href="https://github.com/MosKatiello/Dw1-FATEC-REGISTRO/tree/main/HTML" title="Abrir meus arquivos HTML no GitHub">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" height="62" alt="HTML — abrir repositório"/>
   </a>
@@ -62,7 +62,7 @@
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/FIGMA-ABRIR%20FERRAMENTA-24113F?style=for-the-badge&logo=figma&logoColor=C4A7FF" alt="Figma — site oficial"/></a>
 </p><p align="center">
   <sub>HTML e CSS levam diretamente às pastas correspondentes do repositório Dw1-FATEC-REGISTRO. O Figma abre o site oficial; o link de um arquivo ou perfil pessoal do Figma ainda não foi informado.</sub>
-</p><h2 align="left">📂 Repositórios de estudo</h2>Repositório	Acesso
+</p><h2 align="left"> Repositórios de estudo</h2>Repositório	Acesso
 Desenvolvimento Web I	Dw1-FATEC-REGISTRO
 Banco de Dados	BANCO-DE-DADOS
 Algoritmos	ALGORITMO
@@ -71,14 +71,13 @@ Engenharia de Software	ENGENHARIA-DE-SOFTWARE
 SORC	SORC
 
 
-<h2 align="left">🎯 Em que estou focado</h2>- Desenvolvimento Web: estruturação de páginas com HTML e estilização com CSS.
+<h2 align="left"> Em que estou focado</h2>- Desenvolvimento Web: estruturação de páginas com HTML e estilização com CSS.
 - Versionamento de Código: organização e gerenciamento de projetos utilizando Git e GitHub.
 - UI/UX Design: prototipação e criação de interfaces com Figma.
 - Formação: Desenvolvimento de Software Multiplataforma (DSM) na FATEC Registro.
-<h2 align="left">🤝 Vamos conversar?</h2><p align="left">
+<h2 align="left"> Vamos conversar?</h2><p align="left">
   <a href="https://github.com/MosKatiello"><img src="https://img.shields.io/badge/GitHub-17121F?style=for-the-badge&logo=github&logoColor=C4A7FF" alt="GitHub" /></a>
   <a href="https://www.instagram.com/luizmoscatiello/"><img src="https://img.shields.io/badge/Instagram-17121F?style=for-the-badge&logo=instagram&logoColor=C4A7FF" alt="Instagram" /></a>
   <a href="mailto:lg.lo.siqueira@gmail.com"><img src="https://img.shields.io/badge/Email-17121F?style=for-the-badge&logo=gmail&logoColor=C4A7FF" alt="Email" /></a>
 </p><p align="center"><i>Obrigado por visitar meu perfil! Bons estudos e bom código!</i></p><p align="center">
-  <img src="./assets/footer.gif" width="100%" alt="Footer minimalista preto e roxo de Luiz Gabriel"/>
-</p>
+  
