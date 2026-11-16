@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-  <strong>Luiz Gabriel</strong><br/>
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1200&color=B794F4&center=true&vCenter=true&width=650&lines=LET+ME+DO+THIS+ALONE" alt="LET ME DO THIS ALONE" />
+</p>
   19 anos | Ilha Comprida, São Paulo | Estudante de Desenvolvimento de Software Multiplataforma na FATEC Registro
 </p>
 
