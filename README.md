@@ -1,61 +1,29 @@
-# 👨‍💻 E aí! Sou o Luiz Gabriel
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061E29,100:1D546D&height=160&section=header&text=Luiz%20Gabriel&fontSize=39&fontColor=F3F4F4&fontAlignY=40&desc=Desenvolvimento%20Multiplataforma%20%E2%80%A2%20Front-end%20%E2%80%A2%20UI%2FUX&descAlignY=68&descColor=5F9598" /><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=ubuntu&weight=600&size=22&duration=3000&pause=1000&color=5F9598&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+DSM+na+FATEC+Registro;Desenvolvimento+Web+%26+UI%2FUX" alt="Typing SVG" />
+</p><p align="center">
+  <img src="https://raw.githubusercontent.com/MosKatiello/MosKatiello/output/github-contribution-grid-snake-dark.svg" alt="Animação de cobra do GitHub" />
+</p><h2 align="left">Projetos em destaque</h2>Projeto	Descrição	Tecnologias
+MEC - Mentes em Códigos	Serious game 2D (RPG/plataforma) e plataforma web criados para ensinar Programação Orientada a Objetos (POO) de forma prática e interativa.	HTML5 • CSS3 • JavaScript • Bootstrap
 
-<!-- Efeito de Digitação Animado apenas com o que você pediu -->
-<p align="center">
-  <a href="https://github.com/MosKatiello">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=049FD9&center=true&vCenter=true&width=600&lines=Sou+o+Luiz+Gabriel+👋;Estudante+da+Fatec+de+Registro+🎓;Desenvolvedor+em+Formação+💻;Aulas+de+HTML,+CSS+e+JS+⚡;Redes+com+Cisco+🌐" alt="Animação de Digitação" />
-  </a>
-</p>
 
-<!-- Contador de Visitas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MosKatiello&label=Visualizações+do+Perfil&color=049FD9&style=for-the-badge" alt="Contador de Visitas" />
-</p>
-
----
-
-### 🕹️ Um pouco sobre mim (Clique nas setinhas para abrir!)
-
-<details>
-  <summary><b>🎓 Onde eu estudo?</b></summary>
-  <br>
-  <p>Sou desenvolvedor em formação e atualmente foco os meus estudos na <b>Fatec de Registro</b>. Estou sempre buscando aplicar o que vejo nas aulas em projetos práticos no meu dia a dia.</p>
-</details>
-
-<details>
-  <summary><b>💻 Como eu trabalho?</b></summary>
-  <br>
-  <p>Meu foco atual está na base do desenvolvimento web. Também gosto de organizar ideias visualmente e recriar designs para projetos — como pegar apresentações completas do PowerPoint e transferir direto para o Figma, para conseguir mexer totalmente e editar todos os slides do meu jeito, antes de ir para o código.</p>
-</details>
-
-<details>
-  <summary><b>📚 O que estou aprendendo nas aulas?</b></summary>
-  <br>
-  <ul>
-    <li>🌐 <b>Redes e Infraestrutura:</b> Cisco</li>
-    <li>🎨 <b>Front-end e Lógica:</b> HTML, CSS e JavaScript</li>
-  </ul>
-</details>
-
----
-
-### 🛠️ Minhas Tecnologias
-*(Estes ícones são interativos e se adaptam à tela)*
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" alt="Minhas Skills" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-</p>
-
----
-
-### 📊 Minha Atividade no GitHub
-*(Esses cartões puxam seus dados e atualizam sozinhos toda vez que você faz algo no GitHub)*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MosKatiello&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosKatiello&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" width="48%" />
-</p>
+<h2 align="left">Tecnologias e ferramentas</h2><div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,figma" height="55" alt="Tecnologias e ferramentas" />
+</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p><h2 align="left">Em que estou focado</h2>- Desenvolvimento Web: criação de páginas e interfaces com HTML e
+  CSS.
+- Versionamento de Código: organização e gerenciamento de projetos
+  utilizando Git e GitHub.
+- UI/UX Design: prototipação e construção de interfaces no Figma.
+- Formação: Desenvolvimento de Software Multiplataforma (DSM) na
+  FATEC Registro.
+<h2 align="left">Vamos conversar?</h2><p align="left">
+  <a href="https://github.com/MosKatiello"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/luizmoscatiello/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:lg.lo.siqueira@gmail.com"><img src="https://img.shields.io/badge/Email-5F9598?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p><p align="center"><i>Obrigado por visitar meu perfil! Bons estudos e bom código!</i></p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D546D,100:061E29&height=120&section=footer" />
