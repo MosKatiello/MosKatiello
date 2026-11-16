@@ -129,16 +129,6 @@ Clique em cada tecnologia para abrir o repositório, a ferramenta ou a documenta
 | Engenharia de Software | [ENGENHARIA-DE-SOFTWARE](https://github.com/MosKatiello/ENGENHARIA-DE-SOFTWARE) |
 | Sistemas Operacionais e Redes de Computadores | [SORC](https://github.com/MosKatiello/SORC) |
 
----
-
-## Em que estou focado
-
-- **Desenvolvimento Web:** estruturação de páginas com HTML e estilização com CSS.
-- **Versionamento de Código:** organização e gerenciamento de projetos utilizando Git e GitHub.
-- **UI/UX Design:** prototipação e criação de interfaces com Figma.
-- **Formação:** Desenvolvimento de Software Multiplataforma (DSM) na FATEC Registro.
-
----
 
 ## Contato
 
