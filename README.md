@@ -105,16 +105,6 @@
 | Engenharia de Software | [ENGENHARIA-DE-SOFTWARE](https://github.com/MosKatiello/ENGENHARIA-DE-SOFTWARE) |
 | SORC | [SORC](https://github.com/MosKatiello/SORC) |
 
----
-
-<h2 align="left"> Em que estou focado</h2>
-
-- **Desenvolvimento Web:** estruturação de páginas com HTML e estilização com CSS.
-- **Versionamento de Código:** organização e gerenciamento de projetos utilizando Git e GitHub.
-- **UI/UX Design:** prototipação e criação de interfaces com Figma.
-- **Formação:** Desenvolvimento de Software Multiplataforma (DSM) na FATEC Registro.
-
----
 
 <h2 align="center"> GitHub Analytics</h2>
 
